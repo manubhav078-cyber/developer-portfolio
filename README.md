@@ -2,6 +2,14 @@
 
 > B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2026-30
 
+## Coding Profiles
+
+| Platform | Profile |
+|---|---|
+| LeetCode | [anubhav7789](https://leetcode.com/u/anubhav7789/) |
+| HackerRank | Python Basic Certified |
+| freeCodeCamp | Certification ID: `fcc-a1ed4b20-1f09-40ff-a536-2eef5c73a561` |
+
 ## Repository Index
 
 | Repository | Description | Tech Stack | Status |
